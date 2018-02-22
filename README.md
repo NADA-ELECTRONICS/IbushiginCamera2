@@ -2,7 +2,7 @@
 IbushiginCamera2 for GR-LYCHEE - OpenCV
 
 # いぶし銀カメラ2
-2018/02/24 [mbed祭り 2018@春の新横浜](https://mbed.doorkeeper.jp/events/69440) 場所:Arm アーム株式会社  
+2018/02/24 [mbed祭り 2018@春の新横浜](https://mbed.doorkeeper.jp/events/69440) 場所:Arm アーム株式会社  
 [GR-LYCHEE - Mbed](https://os.mbed.com/platforms/Renesas-GR-LYCHEE/)  
 [GR-LYCHEE - GADGET RENESAS](https://os.mbed.com/platforms/Renesas-GR-LYCHEE/)  
 [GR-LYCHEE - CORE](http://www.core.co.jp/product/m2m/gr-lychee/)  
