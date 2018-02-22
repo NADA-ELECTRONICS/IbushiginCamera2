@@ -24,4 +24,5 @@ GR-LYCHEE (D1)  - AS-289R2 Thermal Printer Shield
 cv::imwriteでxxx_gray.bmpをFlashAirに保存  
 cv::Mat dstをディザリング処理で2値化  
 cv::flipで反転(デモが反転印字の為)  
+cv::imwriteでxxx_color2.bmpをFlashAirに保存  
 cv::Mat dstをAS-289R2 Thermal Printer Shieldにuart送信  
