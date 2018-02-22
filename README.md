@@ -21,8 +21,8 @@ GR-LYCHEE (D1)  - AS-289R2 Thermal Printer Shield
 # 主な処理
 シャッターSWが押されるとカメラで取得したグレースケール画像cv::Mat dstにコピー  
 グレースケール画像サイズをcv:resizeで384xautoに変換  
-cv::imwriteでxxx_gray.bmpをFlashAirに保存  
+cv::imwriteでxxx_gray.bmpをSD-Card(FlashAir)に保存  
 cv::Mat dstをディザリング処理で2値化  
 cv::flipで反転(デモが反転印字の為)  
-cv::imwriteでxxx_color2.bmpをFlashAirに保存  
+cv::imwriteでxxx_color2.bmpをSD-Card(FlashAir)に保存  
 cv::Mat dstをAS-289R2 Thermal Printer Shieldにuart送信  
